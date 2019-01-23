@@ -29,7 +29,7 @@ public class Card {
             System.out.println("Choose a valid card value 1-13 inclusive");
         
         }
-        System.out.println();
+        
     }
     
     public int getValue(){
